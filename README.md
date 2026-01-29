@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/10Q5sR3JncVs64_EA6fathMf3kzone0I6
+Test My Web App: https://supplychain-ai-932126588073.us-west1.run.app
 
 ## Run Locally
 
