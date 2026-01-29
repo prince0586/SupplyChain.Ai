@@ -1,0 +1,9 @@
+{
+  "name": "SupplyChain.AI",
+  "description": "An autonomous operating system for MSMEs that automates operations, finance, marketing, and strategy using multi-agent AI orchestration.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
